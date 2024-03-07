@@ -12,36 +12,52 @@
 </div>
 
 ## Preview
-[![Video Label](http://img.youtube.com/vi/hgZKnsAxdX8/0.jpg)](https://youtu.be/hgZKnsAxdX8)
+
+![ted-ezgif com-speed](https://github.com/sopa3344/Ted-s-field-work/assets/160595319/03cd50ed-2676-4aac-b59b-c8130a648035)
+
+
+![ted-ezgif com-video-to-gif-converter](https://github.com/sopa3344/Ted-s-field-work/assets/160595319/f4ffa465-e359-4258-839b-2ad4cfae7cb2)
+
+![ted-ezgif com-video-to-gif-converter (1)](https://github.com/sopa3344/Ted-s-field-work/assets/160595319/0a1eede0-f5e3-4936-b2a0-e3485bcaed73)
 
 
 
 
 
+full video ->>  https://youtu.be/hgZKnsAxdX8?si=yNuwsXWOQccXpdpb
+
+
+##  Background Made
+I am a student in the Department of Civil Engineering at Gyeongsang National University.
+Due to the nature of the department
+We conducted various field work, and the main cause of accidents, large and small, was not wearing safety equipment. It was created to raise awareness and raise awareness of the importance of this.
 
 
 ## Explanation
 
-Hello, I am a student studying in the Department of Civil Engineering at Gyeongsang National University.
+It is a click and drag game where a virtual character named Ted puts 3 tools to take with him before going to work in a box.
 
-A major cause of accidents large and small during various field work was the failure to bring safety equipment, and this was created to raise awareness of this and the importance of it.
+It was built around three things:
+
+1) The importance of safety helmets, vests, and safety shoes, which are the most important safety equipment in the field.
+2) Clear design and play for various age groups
+3) For everyone to easily access All resources self-produced
 
 ## Used Technologies
 
-SwiftUI, SpriteKit.
+Xcode, Swift Playground
 
 ## Supported Platforms
 
 iPadOS 16 or later
 
-## Installation and Usage
+## Resource 
+images, music = self-production
 
-Requirements: Swift Playgrounds 4.4, Xcode 15 or later
+## People Who Help
+Usg Apple Ios Winter Camp
 
-* Clone the repository.
-* Open the `Scolarship.swiftpm` file with Swift Playgrounds or Xcode.
-* (Xcode only) Change the Run Destination to your device.
-* Run the project.
-* Follow the steps in the app.
+
+
 
 
